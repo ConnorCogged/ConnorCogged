@@ -13,4 +13,4 @@
 ### Current and Past Experiences
 - 📺 Discord bot for Osubway - Twitch streamer with 230+ followers
 - 🛬 Discord bot for LandStealSMP with [Hyperskys](https://github.com/hyperskys) - An SMP which is based around the ideas of the LifeSteal SMP but has a few twists [8 Members]
-- 🤖 Youtube analytics bot for Creators Club - A discord server with youtubers in it such as [Dufji](https://youtube.com/c/Dufji), [Azeal](https://www.youtube.com/channel/UClLOsBKtKS8i9N12l6Uza3g) and [Camdeeno](https://www.youtube.com/c/Camdeeno)
+- 💀 (V1.0 discountinued, V2.0 coming soon with new revolutionary features.) Youtube analytics bot for Creators Club - A discord server with youtubers in it such as [Dufji](https://youtube.com/c/Dufji), [Azeal](https://www.youtube.com/channel/UClLOsBKtKS8i9N12l6Uza3g) and [Camdeeno](https://www.youtube.com/c/Camdeeno)
