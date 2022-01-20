@@ -3,7 +3,6 @@
 - Java Development
 - Javascript Development
 - Minecraft Plugin Development
-- ProtocolLib Experience
 - BukkitAPI Experience
 - MongoDB Experience
 - Discord Bot Development
