@@ -11,6 +11,6 @@
 [![Connoriffy's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Connoriffy&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### Current and Past Experiences
-- 📺 Discord bot for Osubway - Twitch streamer with 230+ followers
-- 🛬 Discord bot for LandStealSMP with [Hyperskys](https://github.com/hyperskys) - An SMP which is based around the ideas of the LifeSteal SMP but has a few twists [8 Members]
-- 💀 (V1.0 discountinued, V2.0 coming soon with new revolutionary features.) Youtube analytics website currently being revamped, read more [here](https://github.com/QuickTrends).
+- (Project finished) 📺 Discord bot for Osubway - Twitch streamer with 230+ followers
+- (Currently discountinued) 🛬 Discord bot for LandStealSMP with [Hyperskys](https://github.com/hyperskys) - An SMP which is based around the ideas of the LifeSteal SMP but has a few twists [8 Members]
+- 💀 (Currently discountinued) [QuickTrends](https://github.com/QuickTrends).
