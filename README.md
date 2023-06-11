@@ -9,8 +9,8 @@
 - Lua Development
 ---
 ### 🌟 My Github Statistics
-[![Connoriffy's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Connoriffy&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Connoriffy&layout=pie)](https://github.com/Connoriffy/github-readme-stats)
+[![Connoriffy's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Connoriffy&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Connoriffy&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### Current and Past Experiences
 - (Project finished) 📺 Discord bot for Osubway - Twitch streamer with 230+ followers
