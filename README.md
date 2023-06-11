@@ -6,6 +6,7 @@
 - BukkitAPI Experience
 - MongoDB Experience
 - Discord Bot Development
+- Lua Development
 ---
 ### 🌟 My Github Statistics
 [![Connoriffy's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Connoriffy&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
