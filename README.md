@@ -9,7 +9,7 @@
 - (Project finished) 📺 Discord bot for Osubway - Twitch streamer with 230+ followers
 - (Currently discountinued) 🛬 Discord bot for LandStealSMP - An SMP which is based around the ideas of the LifeSteal SMP but has a few twists [8 Members]
 - 💀 (Currently discountinued) [QuickTrends](https://github.com/QuickTrends).
-- ICC, Minecraft event, joinable [here](https://discord.gg/icc)/[or here](https://discord.gg/A7XTT36tTR), Github org [here](github.com/ICChampionchip) 2022-2023 (left after I finished)
+- ICC, Minecraft event, joinable [here](https://discord.gg/icc)/[or here](https://discord.gg/A7XTT36tTR) 2022-2023 (left after I finished)
 
 ## Languages
 <table style="width:100%">
