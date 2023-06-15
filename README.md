@@ -2,8 +2,9 @@
 
 ## 🌟 My Github Statistics
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=Connoriffy&count_private=true&show_icons=true&theme=dark">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=ConnorCogged&include_all_commits=true&theme=dark">
 </p>
+
 
 ## ⏳ Current and Past Experiences
 - (Project finished) 📺 Discord bot for Osubway - Twitch streamer with 230+ followers
