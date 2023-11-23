@@ -2,10 +2,10 @@
 
 ## 🌟 My Github Statistics
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=ConnorCogged&include_all_commits=true&theme=dark">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=ConnorCogged&include_all_commits=true&theme=blue-green">
 </p>
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Connorcogged&layout=pie&theme=dark">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorCogged&theme=blue-green">
 </p>
 
 ## ⏳ Current and Past Experiences
